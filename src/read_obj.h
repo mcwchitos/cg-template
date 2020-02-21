@@ -33,5 +33,6 @@ public:
 	void DrawScene();
 
 protected:
+
 	ObjParser* parser;
 };

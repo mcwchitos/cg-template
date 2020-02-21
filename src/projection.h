@@ -11,5 +11,4 @@ public:
 	virtual ~Projection();
 
 	void DrawScene();
-
 };
